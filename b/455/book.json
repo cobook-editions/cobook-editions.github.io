@@ -39,9 +39,9 @@
     "canonical_url": "https://cobook.genehelp.online/b/455",
     "api_url": "https://cobook.genehelp.online/api/v1/b/455",
     "publication_links": {
-      "cobook": null,
-      "github": null,
-      "zotero": null
+      "cobook": "https://cobook.genehelp.online/b/455",
+      "github": "https://cobook-editions.github.io/b/455/",
+      "zotero": "https://www.zotero.org/cobook/collections/W4V6C2NA"
     }
   },
   "sources": [
@@ -7050,6 +7050,6 @@
       "url": "https://www.familysearch.org/ark:/61903/3:1:3QHJ-C7VY-MS94"
     }
   ],
-  "version": "cf16bd648a54d3b0fe7413229ff26e236882a425536d8a67e20b6bf253bc05c6",
-  "updated_at": "2026-10-19T22:46:34+03:00"
+  "version": "0adcbaa4b9f9114f11199fee9cc926f92a95a834a29690a3a4bd30f8d323be9d",
+  "updated_at": "2026-10-21T17:37:55+03:00"
 }
