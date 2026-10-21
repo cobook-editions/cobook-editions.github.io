@@ -2,10 +2,10 @@
   "schema": "cobook.book.v1",
   "book": {
     "id": 456,
-    "title": "Колекція: Сергієнки з Кейбалівки та навколишніх поселень: документальні свідчення (XVIII–XX ст.). Т2.",
-    "subtitle": "документальні свідчення (1855–1948 рр.)",
+    "title": "Сергієнки з Кейбалівки та навколишніх поселень",
+    "subtitle": "Архівні джерела до історії роду (1855–1948)",
     "volume": 2,
-    "type": "collection",
+    "type": "book",
     "language": "old_uk",
     "document_type": "handwritten",
     "annotation": "Сергієнки з Кейбалівки та навколишніх поселень: документальні свідчення (1855–1948 рр.). Том 2 — корпус архівних матеріалів, відтворених у цифровому форматі в межах проєкту CoBook.today. Видання містить фрагменти архівних документів, їх транскрипції, а також переклади текстів на сучасну українську мову.\r\n\r\nТранскрипції відтворюють тексти документів максимально дослівно відповідно до їхнього оригіналу, тоді як переклади є осучасненими інтерпретаціями, наближеними до змісту першоджерел і призначеними для зручнішого сприйняття.\r\n\r\nВидання є результатом багаторічних досліджень окремих родів і прізвищ та має на меті їх фіксацію, систематизацію і збереження. Матеріали зібрано як основу для подальших генеалогічних і краєзнавчих досліджень, щоб наступні покоління дослідників могли використовувати напрацьований корпус даних як відправну точку, не відтворюючи цей шлях заново.\r\n       \r\nВидання призначене для генеалогів, істориків, краєзнавців, працівників архівів і бібліотек, а також усіх, хто досліджує історію власного роду та локальних спільнот.",
@@ -18,7 +18,28 @@
       "compiler": "Любимий Ю.М.",
       "editor": "Любимий Ю.М.",
       "reviewer": null,
-      "proofreader": null
+      "proofreader": null,
+      "credits": [
+        {
+          "name": "Любимий Ю.М.",
+          "roles": [
+            "упорядкування",
+            "редагування"
+          ]
+        },
+        {
+          "name": "Сергієнко К.М.",
+          "roles": [
+            "упорядкування"
+          ]
+        },
+        {
+          "name": "Хоменко Ю.К.",
+          "roles": [
+            "транскрипція"
+          ]
+        }
+      ]
     },
     "publication": {
       "series": "Документальна спадщина України очима локального дослідника",
@@ -37,7 +58,12 @@
       "period_to": null
     },
     "canonical_url": "https://cobook.genehelp.online/b/456",
-    "api_url": "https://cobook.genehelp.online/api/v1/b/456"
+    "api_url": "https://cobook.genehelp.online/api/v1/b/456",
+    "publication_links": {
+      "cobook": null,
+      "github": null,
+      "zotero": null
+    }
   },
   "sources": [
     {
@@ -309,7 +335,7 @@
       "inventory": "1",
       "case": "9383",
       "page": "арк. 2 зв.",
-      "date": "1856-00-00",
+      "date": "1856",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-47VT-B7KJ"
     },
     {
@@ -326,7 +352,7 @@
       "inventory": "1",
       "case": "9383",
       "page": "арк. 3",
-      "date": "1856-00-00",
+      "date": "1856",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-47VT-B7KJ"
     },
     {
@@ -343,7 +369,7 @@
       "inventory": "1",
       "case": "9383",
       "page": "арк. 3",
-      "date": "1856-00-00",
+      "date": "1856",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-47VT-B7KJ"
     },
     {
@@ -360,7 +386,7 @@
       "inventory": "1",
       "case": "9383",
       "page": "арк. 3 зв.",
-      "date": "1856-00-00",
+      "date": "1856",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-47VT-B7KN"
     },
     {
@@ -377,7 +403,7 @@
       "inventory": "1",
       "case": "9383",
       "page": "арк. 4",
-      "date": "1856-00-00",
+      "date": "1856",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-47VT-B7KN"
     },
     {
@@ -394,7 +420,7 @@
       "inventory": "1",
       "case": "9383",
       "page": "арк. 4 зв.",
-      "date": "1856-00-00",
+      "date": "1856",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-C7VY-MS93"
     },
     {
@@ -411,7 +437,7 @@
       "inventory": "1",
       "case": "9383",
       "page": "арк. 4 зв.",
-      "date": "1856-00-00",
+      "date": "1856",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-C7VY-MS93"
     },
     {
@@ -547,7 +573,7 @@
       "inventory": "1",
       "case": "9384",
       "page": "арк. 3",
-      "date": "1857-00-00",
+      "date": "1857",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-H7VT-13F6"
     },
     {
@@ -564,7 +590,7 @@
       "inventory": "1",
       "case": "9384",
       "page": "арк. 3 зв.",
-      "date": "1857-00-00",
+      "date": "1857",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-H7VT-13FZ"
     },
     {
@@ -581,7 +607,7 @@
       "inventory": "1",
       "case": "9384",
       "page": "арк. 4",
-      "date": "1857-00-00",
+      "date": "1857",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-H7VT-13FZ"
     },
     {
@@ -598,7 +624,7 @@
       "inventory": "1",
       "case": "9384",
       "page": "арк. 3 зв.",
-      "date": "1857-00-00",
+      "date": "1857",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-H7VT-13FZ"
     },
     {
@@ -615,7 +641,7 @@
       "inventory": "1",
       "case": "9384",
       "page": "арк. 4",
-      "date": "1857-00-00",
+      "date": "1857",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-H7VT-13FZ"
     },
     {
@@ -632,7 +658,7 @@
       "inventory": "1",
       "case": "9384",
       "page": "арк. 5 зв.",
-      "date": "1857-00-00",
+      "date": "1857",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-H7VT-13FF"
     },
     {
@@ -649,7 +675,7 @@
       "inventory": "1",
       "case": "9384",
       "page": "арк. 5 зв.",
-      "date": "1857-00-00",
+      "date": "1857",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-H7VT-13FF"
     },
     {
@@ -853,7 +879,7 @@
       "inventory": "1",
       "case": "9385",
       "page": "арк. 3",
-      "date": "1858-00-00",
+      "date": "1858",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-H7VT-13F7"
     },
     {
@@ -870,7 +896,7 @@
       "inventory": "1",
       "case": "9385",
       "page": "арк. 3 зв.",
-      "date": "1858-00-00",
+      "date": "1858",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-C7VY-MSMN"
     },
     {
@@ -887,7 +913,7 @@
       "inventory": "1",
       "case": "9385",
       "page": "арк. 3 зв.",
-      "date": "1858-00-00",
+      "date": "1858",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-C7VY-MSMN"
     },
     {
@@ -904,7 +930,7 @@
       "inventory": "1",
       "case": "9385",
       "page": "арк. 4",
-      "date": "1858-00-00",
+      "date": "1858",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-C7VY-MSMN"
     },
     {
@@ -921,7 +947,7 @@
       "inventory": "1",
       "case": "9385",
       "page": "арк. 4",
-      "date": "1858-00-00",
+      "date": "1858",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-C7VY-MSMN"
     },
     {
@@ -938,7 +964,7 @@
       "inventory": "1",
       "case": "9385",
       "page": "арк. 5 зв.",
-      "date": "1858-00-00",
+      "date": "1858",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-C7VY-MSMV"
     },
     {
@@ -955,7 +981,7 @@
       "inventory": "1",
       "case": "9385",
       "page": "арк. 6",
-      "date": "1858-00-00",
+      "date": "1858",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-C7VY-MSMV"
     },
     {
@@ -972,7 +998,7 @@
       "inventory": "1",
       "case": "9386",
       "page": "арк. 3",
-      "date": "1859-00-00",
+      "date": "1859",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-H7VT-136M"
     },
     {
@@ -989,7 +1015,7 @@
       "inventory": "1",
       "case": "9386",
       "page": "арк. 3 зв.",
-      "date": "1859-00-00",
+      "date": "1859",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-C7VY-M9Y2"
     },
     {
@@ -1006,7 +1032,7 @@
       "inventory": "1",
       "case": "9386",
       "page": "арк. 3 зв.",
-      "date": "1859-00-00",
+      "date": "1859",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-C7VY-M9Y2"
     },
     {
@@ -1023,7 +1049,7 @@
       "inventory": "1",
       "case": "9386",
       "page": "арк. 4",
-      "date": "1859-00-00",
+      "date": "1859",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-C7VY-M9Y2"
     },
     {
@@ -1040,7 +1066,7 @@
       "inventory": "1",
       "case": "9386",
       "page": "арк. 4",
-      "date": "1859-00-00",
+      "date": "1859",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-C7VY-M9Y2"
     },
     {
@@ -1057,7 +1083,7 @@
       "inventory": "1",
       "case": "9386",
       "page": "арк. 4",
-      "date": "1859-00-00",
+      "date": "1859",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-C7VY-M9Y2"
     },
     {
@@ -1074,7 +1100,7 @@
       "inventory": "1",
       "case": "9386",
       "page": "арк. 4 зв.",
-      "date": "1859-00-00",
+      "date": "1859",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-C7VY-M9YK"
     },
     {
@@ -1091,7 +1117,7 @@
       "inventory": "1",
       "case": "9386",
       "page": "арк. 5 зв.",
-      "date": "1859-00-00",
+      "date": "1859",
       "url": "https://www-ru.familysearch.org/ark:/61903/3:1:3QHJ-C7VY-M9YP"
     },
     {
@@ -5460,7 +5486,7 @@
       "inventory": "5",
       "case": "108",
       "page": "стор. 242",
-      "date": "1915-05-00",
+      "date": "1915-05",
       "url": "https://www.familysearch.org/records/images/image-details?keyword=%221011-5-108%22&page=1&rmsId=TH-7732-108765-2437-94&imageIndex=271&singleView=true"
     },
     {
@@ -6548,7 +6574,7 @@
       "inventory": "1",
       "case": "9",
       "page": "арк. 6",
-      "date": "1942-00-00",
+      "date": "1942",
       "url": "https://www.familysearch.org/ark:/61903/3:1:3QHV-FQ8L-RSXK"
     },
     {
@@ -6565,7 +6591,7 @@
       "inventory": "1",
       "case": "9",
       "page": "арк. 7",
-      "date": "1942-00-00",
+      "date": "1942",
       "url": "https://www.familysearch.org/ark:/61903/3:1:3QHV-8Q8L-RSNT"
     },
     {
@@ -6582,7 +6608,7 @@
       "inventory": "1",
       "case": "9",
       "page": "арк. 8",
-      "date": "1942-00-00",
+      "date": "1942",
       "url": "https://www.familysearch.org/ark:/61903/3:1:3QHV-NQ8L-RS2W"
     },
     {
@@ -6599,7 +6625,7 @@
       "inventory": "1",
       "case": "9",
       "page": "арк. 9",
-      "date": "1942-00-00",
+      "date": "1942",
       "url": "https://www.familysearch.org/ark:/61903/3:1:3QHV-FQ8L-RSX2"
     },
     {
@@ -6616,7 +6642,7 @@
       "inventory": "1",
       "case": "9",
       "page": "арк. 10",
-      "date": "1942-00-00",
+      "date": "1942",
       "url": "https://www.familysearch.org/ark:/61903/3:1:3QHV-8Q8L-RSNY"
     },
     {
@@ -6633,7 +6659,7 @@
       "inventory": "1",
       "case": "9",
       "page": "арк. 11",
-      "date": "1942-00-00",
+      "date": "1942",
       "url": "https://www.familysearch.org/ark:/61903/3:1:3QHV-NQ8L-RS24"
     },
     {
@@ -6650,7 +6676,7 @@
       "inventory": "1",
       "case": "9",
       "page": "арк. 12",
-      "date": "1942-00-00",
+      "date": "1942",
       "url": "https://www.familysearch.org/ark:/61903/3:1:3QHV-FQ8L-RSXL"
     },
     {
@@ -6667,7 +6693,7 @@
       "inventory": "1",
       "case": "9",
       "page": "арк. 13",
-      "date": "1942-00-00",
+      "date": "1942",
       "url": "https://www.familysearch.org/ark:/61903/3:1:3QHV-8Q8L-RSNB"
     },
     {
@@ -6684,7 +6710,7 @@
       "inventory": "18004",
       "case": "807",
       "page": "арк. 117",
-      "date": "1943-00-00",
+      "date": "1943",
       "url": "https://pamyat-naroda.ru/heroes/memorial-chelovek_dopolnitelnoe_donesenie59951454/"
     },
     {
@@ -6701,7 +6727,7 @@
       "inventory": "18004",
       "case": "807",
       "page": "арк. 117 зв.",
-      "date": "1943-00-00",
+      "date": "1943",
       "url": "https://pamyat-naroda.ru/heroes/memorial-chelovek_dopolnitelnoe_donesenie59951454/?backurl=%2Fheroes%2F%3Flast_name%3D%D0%A1%D0%B5%D1%80%D0%B3%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE%26place_birth%3D%D0%9A%D0%B5%D0%B9%D0%B1%D0%B0%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0%26group%3Dall%26types%3Dpamyat_commander%3Anagrady_nagrad_doc%3Anagrady_uchet_kartoteka%3Anagrady_ubilein_kartoteka%3Apdv_kart_in%3Apdv_kart_in_inostranec%3Apamyat_voenkomat%3Apotery_vpp%3Apamyat_zsp_parts%3Akld_ran%3Akld_bolezn%3Akld_polit%3Akld_upk%3Akld_vmf%3Akld_partizan%3Apotery_doneseniya_o_poteryah%3Apotery_gospitali%3Apotery_utochenie_poter%3Apotery_spiski_zahoroneniy%3Apotery_voennoplen%3Apotery_iskluchenie_iz_spiskov%3Apotery_kartoteki%3Apotery_rvk_extra%3Apotery_isp_extra%3Asame_doroga%3Asame_rvk%3Asame_guk%3Apotery_knigi_pamyati%26page%3D1%26grouppersons%3D1&"
     },
     {
@@ -6718,7 +6744,7 @@
       "inventory": "977520",
       "case": "319",
       "page": "арк. 337",
-      "date": "1943-04-00",
+      "date": "1943-04",
       "url": "https://pamyat-naroda.ru/heroes/memorial-chelovek_dopolnitelnoe_donesenie61006579/"
     },
     {
@@ -6735,7 +6761,7 @@
       "inventory": "977520",
       "case": "319",
       "page": "арк. 338",
-      "date": "1943-04-00",
+      "date": "1943-04",
       "url": "https://pamyat-naroda.ru/heroes/memorial-chelovek_dopolnitelnoe_donesenie61006579/"
     },
     {
@@ -6752,7 +6778,7 @@
       "inventory": "977521",
       "case": "263",
       "page": "арк. 361",
-      "date": "1943-11-00",
+      "date": "1943-11",
       "url": "https://pamyat-naroda.ru/heroes/memorial-chelovek_dopolnitelnoe_donesenie78048494/"
     },
     {
@@ -6769,7 +6795,7 @@
       "inventory": "977521",
       "case": "263",
       "page": "арк. 362",
-      "date": "1943-11-00",
+      "date": "1943-11",
       "url": "https://pamyat-naroda.ru/heroes/memorial-chelovek_dopolnitelnoe_donesenie78048494/"
     },
     {
@@ -6786,7 +6812,7 @@
       "inventory": "977521",
       "case": "263",
       "page": "арк. 362 зв.",
-      "date": "1943-11-00",
+      "date": "1943-11",
       "url": "https://pamyat-naroda.ru/heroes/memorial-chelovek_dopolnitelnoe_donesenie78048494/"
     },
     {
@@ -6841,6 +6867,6 @@
       "url": "https://gwar.mil.ru/heroes/chelovek_donesenie13055532"
     }
   ],
-  "version": "91ffca14118757e41d2635af1daddebabf81d5f8791c149da7d4df61fc67a2d2",
-  "updated_at": "2026-10-18T15:21:00+03:00"
+  "version": "81a188c27c2b1de6a8eb22153b1e787439abd9f691187f15387d3ee66e1ef849",
+  "updated_at": "2026-10-21T19:40:12+03:00"
 }
